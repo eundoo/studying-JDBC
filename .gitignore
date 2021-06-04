@@ -1,0 +1,9 @@
+/bin
+/.settings
+/doc
+.classpath
+.project
+*.cld
+/Servers
+.metadata
+/demo1
